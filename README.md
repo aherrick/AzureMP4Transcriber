@@ -1,6 +1,6 @@
-﻿# 🎙️ MP4 Transcriber
+﻿# 🎙️ Azure MP4 Transcriber
 
-[![.NET](https://img.shields.io/badge/.NET-8.0-blue)](https://dotnet.microsoft.com/)
+[![.NET](https://img.shields.io/badge/.NET-9.0-blue)](https://dotnet.microsoft.com/)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-Automatic-green)](https://ffmpeg.org/)
 [![Azure Speech](https://img.shields.io/badge/Azure%20Cognitive%20Services-Speech-blue)](https://learn.microsoft.com/azure/cognitive-services/speech-service/)
 ![dotnet](https://github.com/aherrick/AzureAISearchVectorSemantic/actions/workflows/dotnet.yml/badge.svg)
